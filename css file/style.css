@@ -1,0 +1,16 @@
+h1{
+    color: cadetblue;
+    background-color: blanchedalmond;
+}
+.abc{
+    color: green;
+    background: transparent;
+}
+body{
+    width: 100%;
+    height: 100px;
+}
+#def{
+    color: goldenrod;
+    background: transparent;
+}
